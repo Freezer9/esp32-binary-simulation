@@ -1,0 +1,21 @@
+// TelemetryData data = {
+//   .packetNumber = 1,
+//   .satelliteStatus = 1,
+//   .errorCode = 0b000000,
+//   .missionTime = 123456,
+//   .pressure1 = 101325,
+//   .pressure2 = 101320,
+//   .descentRate = -20,
+//   .temp = 2500, // 25.00°C (x100)
+//   .batteryVoltage = 120, // 12.0V (x10)
+//   .gps1Latitude = -7.2575,
+//   .gps1Longitude = 112.7521,
+//   .gps1Altitude = 100, // 10.0m (x10)
+//   .pitch = 1500, // 15.00° (x100)
+//   .roll = -500, // -5.00° (x100)
+//   .yaw = 3000, // 30.00° (x100)
+//   .lnln = {6, 1, 8, 1},
+//   .iotS1Data = 1234, // 12.34 (x100)
+//   .iotS2Data = -567, // -5.67 (x100)
+//   .teamNumber = 632419
+// };
